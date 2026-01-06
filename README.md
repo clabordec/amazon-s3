@@ -4,8 +4,8 @@ This project outlines the creation of both user accounts and organizational unit
 
 <h2>Environments and Technologies Used</h2>
 
-  - AWS
-  - Amazon S3
+- AWS
+- Amazon S3
 
 <h2>Operating Systems Used</h2>
 
