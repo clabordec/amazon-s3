@@ -3,10 +3,11 @@
 This project outlines the creation of both user accounts and organizational units within Active Directory using the `Help Desk` account that has RSAT tools equipped on their machine.<br />
 
 <h2>Environments and Technologies Used</h2>
-- Active Directory Domain Services (Active Directory Users and Computers)
+- AWS
+- Amazon S3
 
 <h2>Operating Systems Used</h2>
-- Windows Server 2016
+- Windows 11 Enterprise
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
