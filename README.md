@@ -1,6 +1,6 @@
 <h1>Creating a Bucket within Amazon S3</h1>
 
-This project outlines the creation of both user accounts and organizational units within Active Directory using the `Help Desk` account that has RSAT tools equipped on their machine.<br />
+This project outlines the creation of an Amazon S3 bucket that contains two .<br />
 
 <h2>Environments and Technologies Used</h2>
 
