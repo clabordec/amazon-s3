@@ -37,7 +37,7 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 
 <h1>Actions and Observations</h1>
 
-## Creating the Organizational Units (OUs)
+## Creating the S3 Bucket
 ### First, verify that you are logged into the `Help Desk` account
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d1bd4b61-48e8-432f-b35b-eaf92eb37af6" />
