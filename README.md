@@ -1,6 +1,6 @@
 <h1>Creating a Bucket within Amazon S3</h1>
 
-This project outlines the creation of an Amazon S3 bucket that contains two .<br />
+This project outlines the creation of an Amazon S3 bucket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -13,21 +13,11 @@ This project outlines the creation of an Amazon S3 bucket that contains two .<br
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create the following OUs:
-  - IT
-  - HR
-  - Engineers
-- Create the following users:
-  - Help Desk
-  - Patty
-  - Jane Foster
-  - Jamie Verges
-  - Eric Madson
-  - Alex Bertzy
-- Verify that all users have been created. For the user `Help Desk`, verify that the account has administrative rights.
-- Assign `Help Desk` to the `IT` OU.
-- Assign `Patty`, `Jane Foster`, and `Jamie Verges` to the `HR` OU.
-- Assign `Eric Madson` and `Alex Bertzy` to the `Engineers` OU.
+- Create the following Amazon S3 bucket: `kk-lab-chaanyah`
+    - The bucket should have `us-east-1` region
+    - Ensure that the public access is disabled
+- Upload the `food/` and `travel/` directories to the `kk-lab-chaaanyah` bucket
+    - Ensure that the storage class is set to `Standard`
 
 <br />
 
