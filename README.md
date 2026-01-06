@@ -18,6 +18,20 @@ This project outlines the creation of an Amazon S3 bucket.<br />
     - Ensure that the public access is disabled
 - Upload the `food/` and `travel/` directories to the `kk-lab-chaaanyah` bucket
     - Ensure that the storage class is set to `Standard`
+- Navigate to the food folder that you uploaded in the bucket.
+- Select one of the JPG files and click on it.
+- Then, click on the object URL link. What do you observe? You should encounter an Access Denied XML response.
+- Next, return to the bucket view and click on the Open tab located in the top right section of the console. This action should successfully display the image.
+- This behavior occurs because the object URL displays Access Denied due to it being a public link, while the S3 object JPG you uploaded is private, as the Block all public access setting is enabled.
+- The Open button functions correctly because you are logged into the AWS console, which uses your authenticated AWS permissions to access the object.
+- Create a lifecycle policy named travel-lifecycle-policy that applies to all files within the travel directory of the bucket. Configure the policy settings as follows:
+      - Under Lifecycle Action Rules, enable the Transition current versions of objects between storage classes.
+      - Under the Transition current versions of objects between storage classes, move the current version from Standard-IA and transition to Glacier Instant Retrieval after 30 days.
+- Delete the bucket with the prefix `kk-lab-chaanyah`
+
+
+
+
 
 <br />
 
