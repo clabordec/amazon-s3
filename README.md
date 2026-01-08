@@ -184,12 +184,6 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/91400be8-d5c3-4387-9385-bc8d16595bef" />
 </p>
 
-### Verify the user `Jane Foster`
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/ad32724d-864d-4b80-8f9b-da7f501c2e9a" />
-</p>
-<br />
-
 ### Set the prefix to `travel/`, this will create the rule for all files with the directory
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d16309b7-e039-4820-8679-6b6c182a69f5" />
@@ -215,10 +209,48 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/ebb194c2-5a93-4321-8396-8d1dbb86fa20" />
 </p>
 
-### Verify the user `Alex Bertzy`
+### Verify the creation of the rule
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5c8da4e1-c49e-44f2-bf0d-d6bf276f2641" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0c45fb0a-e243-46c3-a19f-64d6218dee79" />
 </p>
+<br />
+
+## Deleting the bucket
+### Navigate back to the Buckets UI and click on the radio option of the bucket
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/693ddc1b-d833-4052-a305-ce9b69feffd2" />
+</p>
+
+### Click on the "Empty" option to empty all files and folders from the bucket
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/16dcecff-2b0b-4832-a12e-e186ce3cfcba" />
+</p>
+
+### Type "permanently delete" then click "Empty
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/05b1a260-a6ee-47cf-8584-3f37b383b1fd" />
+</p>
+
+### Verify, then click "Exit"
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/05b1a260-a6ee-47cf-8584-3f37b383b1fd" />
+</p> <img width="1903" height="1005" alt="image" src="https://github.com/user-attachments/assets/b700f2aa-fc1c-4511-9c7a-15a8e01a42ee" />
+
+### Verify, then click "Exit"
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/05b1a260-a6ee-47cf-8584-3f37b383b1fd" />
+</p> <img width="1912" height="1010" alt="image" src="https://github.com/user-attachments/assets/e6cace4c-b449-4f63-b79e-bda85a5d2fd0" />
+
+### Verify, then click "Exit"
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/05b1a260-a6ee-47cf-8584-3f37b383b1fd" />
+</p> <img width="1912" height="1002" alt="image" src="https://github.com/user-attachments/assets/435b3065-fbbb-4530-90e7-34eaecd4de00" />
+
+### Verify, then click "Exit"
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/05b1a260-a6ee-47cf-8584-3f37b383b1fd" />
+</p> <img width="1885" height="1017" alt="image" src="https://github.com/user-attachments/assets/0b5cd261-9324-414b-94fd-ca888e536865" />
+
 
 ---
 
