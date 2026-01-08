@@ -1,4 +1,4 @@
-<h1>Creating a Bucket within Amazon S3</h1>
+<img width="1891" height="1007" alt="image" src="https://github.com/user-attachments/assets/850b4d84-e9f2-4501-8169-598bf06c9c6a" /><h1>Creating a Bucket within Amazon S3</h1>
 
 This project outlines the creation of an Amazon S3 bucket.<br />
 
@@ -42,13 +42,11 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/41fc9bf0-a65d-4676-8368-d968fe668c36" />
 </p>
-<br />
 
 ### Click on "Create bucket"
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8888813a-7217-400f-a12e-35a4ae819049" />
 </p>
-<br />
 
 ### To store objects across different availability zones and to have access to a wider ranger of storage classes, the bucket type will be set to `General Purpose`
 <p>
@@ -69,7 +67,6 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/523d48c9-4435-4233-a66a-b8af22b809f8" />
 </p>
-<br />
 
 ### Disable Bucket versioning as this will be the only version of this bucket
 <p>
@@ -85,14 +82,12 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/044d734f-7cd6-4ab7-8cda-35d2d691ca9b" />
 </p>
-<br />
 
 ### Verify the created bucket
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7ab5cecb-4587-4ec0-9fba-d1f4f9af82de" />
 </p>
-
-<br>
+<br />
 
 ## Uploading files in the bucket
 ### Click on the bucket then click on "upload"
@@ -102,7 +97,6 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/a99fdae2-61d3-4cef-a8e0-daf589d82ee6" />
 </p>
-<br />
 
 ### Click on "Add folder" in the Upload UI
 <p>
@@ -121,7 +115,6 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e0d40b78-dd6e-47b4-827e-3bf91ed7b9dc" />
 </p>
-<br />
 
 ### Upload both the `travel` directory
 <p>
@@ -130,7 +123,6 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/6a84c994-2866-42d9-b76e-39f14c7c49e9" />
 </p>
-<br />
 
 ### Click "Upload" to upload the files into the bucket
 <p>
@@ -150,22 +142,24 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 
 ### Click on a image
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3779d94f-27ba-41fe-a72e-ebd026e54b74" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/6285a0f0-7e96-48a1-b8d3-00bbcd8451ef" />
 </p>
 
 ### Click on the image URL to view the image, instead of the image showing, the Access denied XML response will appear, this is due to the public access being blocked during the creation of the `kk-lab-chaan-s3` bucket
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2d3233e8-43ea-466c-b7dd-d5b2e74b3242" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9ebf0f66-3cb4-403c-9d8a-8d7074f45e2b" />
 </p>
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b8fb9a18-f432-4cf4-9dff-882e2595d860" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/ea22ee1d-810d-4771-89a6-4cfb64de4ac0" />
 </p>
 <br />
 
-### Creating the user `Alex Bertzy`
+### To view the Image, click on the "Open" hyperlink
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8a6f6e9c-822a-4052-ba1d-c1361bd34f94" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1eec5768-b540-40fb-9838-7e3389ab3753" />
 </p>
+
+### 
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2d3233e8-43ea-466c-b7dd-d5b2e74b3242" />
 </p>
