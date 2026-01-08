@@ -38,30 +38,36 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <h1>Actions and Observations</h1>
 
 ## Creating the S3 Bucket
-### First, verify that you are logged into the `Help Desk` account
+### In the AWS console home menu screen, click on S3 
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d1bd4b61-48e8-432f-b35b-eaf92eb37af6" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/41fc9bf0-a65d-4676-8368-d968fe668c36" />
 </p>
 <br />
 
-### Within Active Directory Users and Computers, right-click on the domain name → New → Organizational Unit
+### Click on "Create bucket"
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/829e03a7-38c5-415b-9dda-67299b8cf25d" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8888813a-7217-400f-a12e-35a4ae819049" />
 </p>
 <br />
 
-### Create the IT, HR, and Engineers OUs, ensuring the `Protect container from accidental deletion` option is checked
+### To store objects across different availability zones and to have access to a wider ranger of storage classes, the bucket type will be set to `General Purpose`
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c318c583-6d46-424a-9a57-3c9db67a8048" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5b9b4cc6-1a4a-4254-b7e1-adf4560ccf19" />
 </p>
+
+### Give the name of the bucket as the following: `kk-lab-chaanyah-s3`
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5918a892-c6e4-4b64-95f3-d174b4e8ab42" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b44f5cdd-a88b-4c91-be83-6bf5b0b93bbe" />
 </p>
+
+### To make this bucket accessible to only my accoint, ACLs will be disabled
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7f91e1df-ffab-4432-9197-f410d245fc8f" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1cdd690b-f1c0-4f82-9916-ccb7302a3fc6" />
 </p>
+
+### To make the bucket private for my account and not to the public, public access will be blocked for this bucket
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b66260dc-90d9-4161-96a3-4d3384a8d0c9" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/523d48c9-4435-4233-a66a-b8af22b809f8" />
 </p>
 <br />
 
