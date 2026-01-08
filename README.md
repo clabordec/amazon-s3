@@ -1,4 +1,4 @@
-<img width="1891" height="1007" alt="image" src="https://github.com/user-attachments/assets/850b4d84-e9f2-4501-8169-598bf06c9c6a" /><h1>Creating a Bucket within Amazon S3</h1>
+<h1>Creating an Amazon S3 Bucket</h1>
 
 This project outlines the creation of an Amazon S3 bucket.<br />
 
