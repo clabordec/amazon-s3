@@ -92,6 +92,8 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7ab5cecb-4587-4ec0-9fba-d1f4f9af82de" />
 </p>
 
+<br>
+
 ## Uploading files in the bucket
 ### Click on the bucket then click on "upload"
 <p>
