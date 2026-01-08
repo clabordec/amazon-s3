@@ -13,10 +13,10 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create the following Amazon S3 bucket: `kk-lab-chaanyah-s3`
+- Create the following Amazon S3 bucket: `kk-lab-chaan-s3`
     - The bucket should have `us-east-1` region
     - Ensure that the public access is disabled
-- Upload the `food/` and `travel/` directories to the `kk-lab-chaaanyah-s3` bucket
+- Upload the `food/` and `travel/` directories to the `kk-lab-chaan-s3` bucket
     - Ensure that the storage class is set to `Standard`
 - Navigate to the food folder that was uploaded in the bucket.
 - Select one of the JPG files and click on it.
@@ -27,7 +27,7 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 - Create a lifecycle policy named travel-lifecycle-policy that applies to all files within the travel directory of the bucket. Configure the policy settings as follows:
     - Under Lifecycle Action Rules, enable the Transition current versions of objects between storage classes.
     - Under the Transition current versions of objects between storage classes, move the current version from Standard-IA and transition to Glacier Instant Retrieval after 30 days.
-- Delete the bucket with the prefix `kk-lab-chaanyah-s3`
+- Delete the bucket with the prefix `kk-lab-chaan-s3`
 
 
 
@@ -55,7 +55,7 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5b9b4cc6-1a4a-4254-b7e1-adf4560ccf19" />
 </p>
 
-### Give the name of the bucket as the following: `kk-lab-chaanyah-s3`
+### Give the name of the bucket as the following: `kk-lab-chaan-s3`
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b44f5cdd-a88b-4c91-be83-6bf5b0b93bbe" />
 </p>
@@ -87,22 +87,27 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 </p>
 <br />
 
-### Creating the user `Patty`
+### Verify the created bucket
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/47a4c0a9-ce06-4d45-84ce-a1ce2d4d1c05" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7ab5cecb-4587-4ec0-9fba-d1f4f9af82de" />
+</p>
+
+## Uploading files in the bucket
+### Click on the bucket then click on "upload"
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7ab5cecb-4587-4ec0-9fba-d1f4f9af82de" />
 </p>
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/bc0cd0d9-3098-44b2-9eb7-d765eb842a3d" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2d50adde-9062-4a2e-8394-b15ef34da712" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/a99fdae2-61d3-4cef-a8e0-daf589d82ee6" />
 </p>
 <br />
 
-### Creating the user `Jane Foster`
+### Click on "Add folder" in the Upload UI
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/cc6a7e15-5b4c-4c1a-ab6c-6660d093fd15" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/71b45df5-2186-40ac-aeed-7503b4aabe4c" />
 </p>
+
+### Navigate to the location of the saved folder
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0dbe713a-b1b5-4ed7-abad-948f4e303121" />
 </p>
