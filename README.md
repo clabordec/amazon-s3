@@ -233,23 +233,23 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 
 ### Verify, then click "Exit"
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/05b1a260-a6ee-47cf-8584-3f37b383b1fd" />
-</p> <img width="1903" height="1005" alt="image" src="https://github.com/user-attachments/assets/b700f2aa-fc1c-4511-9c7a-15a8e01a42ee" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b700f2aa-fc1c-4511-9c7a-15a8e01a42ee" />
+</p>
 
-### Verify, then click "Exit"
+### Navigate back the to Buckets UI, click on the radio option of the bucket, then click "Delete"
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/05b1a260-a6ee-47cf-8584-3f37b383b1fd" />
-</p> <img width="1912" height="1010" alt="image" src="https://github.com/user-attachments/assets/e6cace4c-b449-4f63-b79e-bda85a5d2fd0" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e6cace4c-b449-4f63-b79e-bda85a5d2fd0" />
+</p>
 
-### Verify, then click "Exit"
+### Enter the name of the bucket, then click "Delete bucket"
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/05b1a260-a6ee-47cf-8584-3f37b383b1fd" />
-</p> <img width="1912" height="1002" alt="image" src="https://github.com/user-attachments/assets/435b3065-fbbb-4530-90e7-34eaecd4de00" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/435b3065-fbbb-4530-90e7-34eaecd4de00" />
+</p>
 
-### Verify, then click "Exit"
+### Verify the deletion of the bucket
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/05b1a260-a6ee-47cf-8584-3f37b383b1fd" />
-</p> <img width="1885" height="1017" alt="image" src="https://github.com/user-attachments/assets/0b5cd261-9324-414b-94fd-ca888e536865" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0b5cd261-9324-414b-94fd-ca888e536865" />
+</p>
 
 
 ---
