@@ -108,7 +108,7 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/eb03b8d5-5b73-468a-a390-3c1628c1c7d0" />
 </p>
 
-### Upload both the `food` directory
+### Upload the `food` directory
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d03dd536-9ac5-4bb7-88ce-90467122cc0d" />
 </p>
@@ -116,7 +116,7 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e0d40b78-dd6e-47b4-827e-3bf91ed7b9dc" />
 </p>
 
-### Upload both the `travel` directory
+### Upload the `travel` directory
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/14faf8c3-9692-4c4b-9ee8-391c1b8d9721" />
 </p>
@@ -179,11 +179,10 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/581321b8-dadb-4d9e-8396-8a46b1461551" />
 </p>
 
-### Verify the user `Patty`
+### Since the rule will apply to the `travel` directory, the name will be `travel-lifecycle-policy` for simplicity
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/45f46d96-8ac1-4db3-b5a7-e3e3b8e09f74" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/91400be8-d5c3-4387-9385-bc8d16595bef" />
 </p>
-<br />
 
 ### Verify the user `Jane Foster`
 <p>
@@ -191,17 +190,30 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 </p>
 <br />
 
-### Verify the user `Jamie Verges`
+### Set the prefix to `travel/`, this will create the rule for all files with the directory
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7adbee0b-fc4b-49e0-9452-4c083b691e58" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d16309b7-e039-4820-8679-6b6c182a69f5" />
 </p>
-<br />
 
-### Verify the user `Eric Madson`
+### Enable "Transition current versions of objects between storage classes"
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/72afb1c9-47dc-4ad2-9c33-13d3063423df" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3efb0259-4d61-4d8b-bd52-8f3ad94cb393" />
 </p>
-<br />
+
+### Acknowledge the lifecycle rule
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e245f7fe-4c86-4c0c-9385-2506d80eddcc" />
+</p>
+
+### Set the storage class to "Glacier Instant Retrieval" and the days after object creation to "30"
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/61bfa664-b363-4d99-b67a-36f6db5f702a" />
+</p>
+
+### Create the rule
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/ebb194c2-5a93-4321-8396-8d1dbb86fa20" />
+</p>
 
 ### Verify the user `Alex Bertzy`
 <p>
