@@ -13,10 +13,10 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create the following Amazon S3 bucket: `kk-lab-chaanyah`
+- Create the following Amazon S3 bucket: `kk-lab-chaanyah-s3`
     - The bucket should have `us-east-1` region
     - Ensure that the public access is disabled
-- Upload the `food/` and `travel/` directories to the `kk-lab-chaaanyah` bucket
+- Upload the `food/` and `travel/` directories to the `kk-lab-chaaanyah-s3` bucket
     - Ensure that the storage class is set to `Standard`
 - Navigate to the food folder that was uploaded in the bucket.
 - Select one of the JPG files and click on it.
@@ -27,7 +27,7 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 - Create a lifecycle policy named travel-lifecycle-policy that applies to all files within the travel directory of the bucket. Configure the policy settings as follows:
     - Under Lifecycle Action Rules, enable the Transition current versions of objects between storage classes.
     - Under the Transition current versions of objects between storage classes, move the current version from Standard-IA and transition to Glacier Instant Retrieval after 30 days.
-- Delete the bucket with the prefix `kk-lab-chaanyah`
+- Delete the bucket with the prefix `kk-lab-chaanyah-s3`
 
 
 
