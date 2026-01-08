@@ -83,7 +83,7 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 
 ### Create the bucket
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e4b6fc9f-6fd9-40d2-af2c-91d6e5a831dc" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/044d734f-7cd6-4ab7-8cda-35d2d691ca9b" />
 </p>
 <br />
 
