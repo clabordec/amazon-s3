@@ -158,22 +158,26 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1eec5768-b540-40fb-9838-7e3389ab3753" />
 </p>
-
-### 
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2d3233e8-43ea-466c-b7dd-d5b2e74b3242" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/852a75ec-743e-4450-91c0-b900a69f3930" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d9ceab59-30de-4f2a-8a0b-23acb7756118" />
 </p>
 <br />
 
-## Verifying the Users
-### Verify the `Help Desk` user — this account should be part of the same groups as the `Administrator`
+## Creating the Lifecycel rule
+### Go back to the Buckets UI
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4aaae8c4-a256-4a36-949d-113954d022a6" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/228655a8-adcb-4f42-8b00-2a6f3a33c978" />
 </p>
-<br />
+
+### Click on the bucket, then go to the "Management" tab
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8d5ae6e5-d3ea-4c5c-b95f-82c16e0f049f" />
+</p>
+
+### Click "Create lifecycle rule"
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/581321b8-dadb-4d9e-8396-8a46b1461551" />
+</p>
 
 ### Verify the user `Patty`
 <p>
