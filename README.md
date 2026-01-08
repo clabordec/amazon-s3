@@ -57,7 +57,7 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 
 ### Give the name of the bucket as the following: `kk-lab-chaan-s3`
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b44f5cdd-a88b-4c91-be83-6bf5b0b93bbe" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/af1172d7-4c16-402d-af31-8eed58ebc998" />
 </p>
 
 ### To make this bucket accessible to only my accoint, ACLs will be disabled
@@ -109,20 +109,38 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 
 ### Navigate to the location of the saved folder
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0dbe713a-b1b5-4ed7-abad-948f4e303121" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/eb03b8d5-5b73-468a-a390-3c1628c1c7d0" />
+</p>
+
+### Upload both the `food` directory
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d03dd536-9ac5-4bb7-88ce-90467122cc0d" />
 </p>
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/13ac8a97-c4f4-4e98-a967-35101d12e4a9" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e0d40b78-dd6e-47b4-827e-3bf91ed7b9dc" />
 </p>
 <br />
 
-### Creating the user `Jamie Verges`
+### Upload both the `travel` directory
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/f8389eac-ac89-403b-9e57-9a46de099c40" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/14faf8c3-9692-4c4b-9ee8-391c1b8d9721" />
 </p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/6a84c994-2866-42d9-b76e-39f14c7c49e9" />
+</p>
+<br />
+
+### Click "Upload" to upload the files into the bucket
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d2f078a6-7672-4487-8664-d5dce6389f66" />
+</p>
+
+### 
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2d3233e8-43ea-466c-b7dd-d5b2e74b3242" />
 </p>
+
+### 
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7794e206-3057-4a6a-bae6-2b32cf01766e" />
 </p>
