@@ -71,16 +71,17 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 </p>
 <br />
 
-## Creating the Users
-### Create the following users: `Help Desk`, `Patty`, `Jane Foster`, `Jamie Verges`, `Eric Madson`, and `Alex Bertzy`
-For the `Help Desk` user, provide a secure password and set it to never expire.  
-For the remaining users, set a temporary password that requires them to change it upon first login.
+### Disable Bucket versioning as this will be the only version of this bucket
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7461cc8f-d996-4ccc-a0b9-95b06b21bb34" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/13d75b53-ce0a-422e-b576-2f6dfac0f21e" />
 </p>
+
+### Leave all other options as default
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3099bbd6-1d22-43e1-86ef-2a9e44947716" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2a04328a-a0fa-44af-aea8-f261194729e3" />
 </p>
+
+### Create the bucket
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e4b6fc9f-6fd9-40d2-af2c-91d6e5a831dc" />
 </p>
