@@ -135,21 +135,23 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d2f078a6-7672-4487-8664-d5dce6389f66" />
 </p>
 
-### 
+### Veriy that the files were uploaded
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2d3233e8-43ea-466c-b7dd-d5b2e74b3242" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/570e1691-6089-4c59-bc6e-f6e1d640adbf" />
 </p>
 
-### 
+### Navigate to the food directory
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7794e206-3057-4a6a-bae6-2b32cf01766e" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/86251859-64a1-4ebc-b83e-3569d298bfd1" />
 </p>
 <br />
 
-### Creating the user `Eric Madson`
+### Click on a image
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3779d94f-27ba-41fe-a72e-ebd026e54b74" />
 </p>
+
+### Click on the image URL to view the image, instead of the image showing, the Access denied XML response will appear, this is due to the public access being blocked during the creation of the `kk-lab-chaan-s3` bucket
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2d3233e8-43ea-466c-b7dd-d5b2e74b3242" />
 </p>
