@@ -226,7 +226,7 @@ This project outlines the creation of an Amazon S3 bucket.<br />
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/16dcecff-2b0b-4832-a12e-e186ce3cfcba" />
 </p>
 
-### Type "permanently delete" then click "Empty
+### Type "permanently delete" then click "Empty"
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/05b1a260-a6ee-47cf-8584-3f37b383b1fd" />
 </p>
